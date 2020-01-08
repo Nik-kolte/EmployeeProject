@@ -1,0 +1,15 @@
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\bin\Debug\netstandard2.0\EmployeeDbLayer.deps.json
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\bin\Debug\netstandard2.0\EmployeeDbLayer.dll
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\obj\Debug\netstandard2.0\EmployeeDbLayer.csprojAssemblyReference.cache
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\obj\Debug\netstandard2.0\EmployeeDbLayer.AssemblyInfoInputs.cache
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\obj\Debug\netstandard2.0\EmployeeDbLayer.AssemblyInfo.cs
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\obj\Debug\netstandard2.0\EmployeeDbLayer.csproj.CopyComplete
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\bin\Debug\netstandard2.0\EmployeeDbLayer.pdb
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\obj\Debug\netstandard2.0\EmployeeDbLayer.dll
+C:\Users\nikhi\source\repos\Employees\EmployeeDbLayer\obj\Debug\netstandard2.0\EmployeeDbLayer.pdb

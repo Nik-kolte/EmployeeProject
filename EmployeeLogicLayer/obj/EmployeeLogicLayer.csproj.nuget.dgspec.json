@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nikhi\\source\\repos\\Employees\\EmployeeLogicLayer\\EmployeeLogicLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nikhi\\source\\repos\\Employees\\DbLayer\\DbLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikhi\\source\\repos\\Employees\\DbLayer\\DbLayer.csproj",
+        "projectName": "DbLayer",
+        "projectPath": "C:\\Users\\nikhi\\source\\repos\\Employees\\DbLayer\\DbLayer.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\nikhi\\source\\repos\\Employees\\EmpDto\\EmpDto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikhi\\source\\repos\\Employees\\EmpDto\\EmpDto.csproj",
+        "projectName": "EmpDto",
+        "projectPath": "C:\\Users\\nikhi\\source\\repos\\Employees\\EmpDto\\EmpDto.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\nikhi\\source\\repos\\Employees\\EmployeeLogicLayer\\EmployeeLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikhi\\source\\repos\\Employees\\EmployeeLogicLayer\\EmployeeLogicLayer.csproj",
+        "projectName": "EmployeeLogicLayer",
+        "projectPath": "C:\\Users\\nikhi\\source\\repos\\Employees\\EmployeeLogicLayer\\EmployeeLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\nikhi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikhi\\source\\repos\\Employees\\EmployeeLogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\nikhi\\source\\repos\\Employees\\DbLayer\\DbLayer.csproj": {
+                "projectPath": "C:\\Users\\nikhi\\source\\repos\\Employees\\DbLayer\\DbLayer.csproj"
+              },
+              "C:\\Users\\nikhi\\source\\repos\\Employees\\EmpDto\\EmpDto.csproj": {
+                "projectPath": "C:\\Users\\nikhi\\source\\repos\\Employees\\EmpDto\\EmpDto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

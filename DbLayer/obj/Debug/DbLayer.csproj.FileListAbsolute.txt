@@ -1,0 +1,13 @@
+C:\Users\nikhi\source\repos\Employees\DbLayer\bin\Debug\DbLayer.dll.config
+C:\Users\nikhi\source\repos\Employees\DbLayer\bin\Debug\DbLayer.dll
+C:\Users\nikhi\source\repos\Employees\DbLayer\bin\Debug\DbLayer.pdb
+C:\Users\nikhi\source\repos\Employees\DbLayer\bin\Debug\EntityFramework.dll
+C:\Users\nikhi\source\repos\Employees\DbLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikhi\source\repos\Employees\DbLayer\bin\Debug\EntityFramework.xml
+C:\Users\nikhi\source\repos\Employees\DbLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikhi\source\repos\Employees\DbLayer\obj\Debug\DbLayer.Migrations.Initial.resources
+C:\Users\nikhi\source\repos\Employees\DbLayer\obj\Debug\DbLayer.Migrations.add_data.resources
+C:\Users\nikhi\source\repos\Employees\DbLayer\obj\Debug\DbLayer.csproj.GenerateResource.cache
+C:\Users\nikhi\source\repos\Employees\DbLayer\obj\Debug\DbLayer.csproj.CopyComplete
+C:\Users\nikhi\source\repos\Employees\DbLayer\obj\Debug\DbLayer.dll
+C:\Users\nikhi\source\repos\Employees\DbLayer\obj\Debug\DbLayer.pdb
